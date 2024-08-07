@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfb7deb1d83050a46b5962fb1b8b0314, type: 3}
+  m_Name: Hair Shop SO
+  m_EditorClassIdentifier: 
+  itemsShopHair:
+  - nameItem: None
+    sprice: 0
+    imageItem: {fileID: 21300000, guid: 96a2f09dd3ce4504eb6e13e1dee02981, type: 3}
+    hairtype: 0
+  - nameItem: Arrow
+    sprice: 100
+    imageItem: {fileID: 21300000, guid: 4221ad18838e3684d87a69088ef0be4e, type: 3}
+    hairtype: 1
+  - nameItem: Beard
+    sprice: 200
+    imageItem: {fileID: 21300000, guid: 7194c20b94b561845aa62fbab1913c7d, type: 3}
+    hairtype: 2
+  - nameItem: Crown
+    sprice: 200
+    imageItem: {fileID: 21300000, guid: 0b8223ba00133bf4aa5f5200f3c86a77, type: 3}
+    hairtype: 3
+  - nameItem: CowBoy
+    sprice: 0
+    imageItem: {fileID: 21300000, guid: f5e807527bde17e48b697ad2e5490c1f, type: 3}
+    hairtype: 10
+  - nameItem: Ear
+    sprice: 299
+    imageItem: {fileID: 21300000, guid: ec54b7d78403d444a82541fa1bb82e1f, type: 3}
+    hairtype: 4
+  - nameItem: Hat
+    sprice: 0
+    imageItem: {fileID: 21300000, guid: 4a29a1d7baf42854eb3e331844aad3b6, type: 3}
+    hairtype: 5
+  - nameItem: Hat Cap
+    sprice: 0
+    imageItem: {fileID: 21300000, guid: b9147f494e8bb42449966e0d1847d6d1, type: 3}
+    hairtype: 6
+  - nameItem: Hat Yellow
+    sprice: 0
+    imageItem: {fileID: 21300000, guid: bdabd06a6c27ce44882a649bf46506c9, type: 3}
+    hairtype: 7
+  - nameItem: Headphone
+    sprice: 0
+    imageItem: {fileID: 21300000, guid: 8ad9c97f7cd7cfc429dfcd6ca5b78994, type: 3}
+    hairtype: 8
+  - nameItem: Horn
+    sprice: 0
+    imageItem: {fileID: 21300000, guid: e964f3441bc551545ad95c8a5681b50e, type: 3}
+    hairtype: 9
+  type: 2

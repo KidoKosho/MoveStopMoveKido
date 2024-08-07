@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f47a166eefacce4c841401ee18792e7, type: 3}
+  m_Name: Weapon Shop SO
+  m_EditorClassIdentifier: 
+  itemsShopWeapon:
+  - nameItem: Arrow
+    sprice: 0
+    imageItem: {fileID: 21300000, guid: 44b1cb4c76106dd48b0e6684d04d7dfb, type: 3}
+    weapontype: 0
+  - nameItem: Axe_0
+    sprice: 100
+    imageItem: {fileID: 21300000, guid: 8ea54c6c6a406124b9b4e2fc500eb19b, type: 3}
+    weapontype: 1
+  - nameItem: Axe_1
+    sprice: 200
+    imageItem: {fileID: 21300000, guid: 5f1b2f4c0dcfcdc46b37e8ea569dbf5b, type: 3}
+    weapontype: 2
+  - nameItem: Boomerang
+    sprice: 300
+    imageItem: {fileID: 21300000, guid: 4d7bec710fce6d64bba17052e9e802d5, type: 3}
+    weapontype: 3
+  - nameItem: Candy_0
+    sprice: 400
+    imageItem: {fileID: 21300000, guid: 83bd821632abf8b46a9bf09622ea5d57, type: 3}
+    weapontype: 4
+  - nameItem: Candy1
+    sprice: 500
+    imageItem: {fileID: 21300000, guid: 01b2145336c5973429bceb4daf7adb6d, type: 3}
+    weapontype: 5
+  - nameItem: Ice Cream
+    sprice: 600
+    imageItem: {fileID: 21300000, guid: 836e156718dd49646a5be11390ebf8b7, type: 3}
+    weapontype: 6
+  - nameItem: Hammer
+    sprice: 700
+    imageItem: {fileID: 21300000, guid: faadbde352f3d6e4f82f59b49518481b, type: 3}
+    weapontype: 7
+  - nameItem: Knife
+    sprice: 800
+    imageItem: {fileID: 21300000, guid: f1c12a6a21463b94eb2c813d0563bba1, type: 3}
+    weapontype: 8
+  - nameItem: Uzi
+    sprice: 900
+    imageItem: {fileID: 21300000, guid: f9df29cca9120454fb456daccc8c0f18, type: 3}
+    weapontype: 9
+  - nameItem: Candy_4
+    sprice: 1000
+    imageItem: {fileID: 21300000, guid: f85ffc60f8d951740b731afede17fff0, type: 3}
+    weapontype: 10
+  type: 1
