@@ -75,5 +75,11 @@ public class Player : Character
     {
         return Physics.Raycast(rayGround.position, UnityEngine.Vector3.down, 5f, groundLayer);
     }
+
+    public override void CharacterDeath()//TODO
+    {
+        base.CharacterDeath();
+        gameObject.SetActive(false);
+    }
 }
     

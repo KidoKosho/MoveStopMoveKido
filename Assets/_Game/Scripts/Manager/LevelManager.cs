@@ -29,8 +29,7 @@ public class LevelManager : Singleton<LevelManager>
 
     public void OnInit()
     {
-        countcharacterdie = 0;
-        countInstanceCharacter = 0;
+        countcharacterdie = countInstanceCharacter = 0;
         for(int i =0;i < (currentLevel.CharacterPlayingGame+1>CharacterAmount?CharacterAmount:currentLevel.CharacterPlayingGame+1);i++)
         { 
             if(i == 0)
@@ -78,7 +77,7 @@ public class LevelManager : Singleton<LevelManager>
     }
     public void OnStartGame()
     {
-
+        OnLoadLevel() ;
     }
     public void OnFinishGame()
     {
@@ -105,22 +104,23 @@ public class LevelManager : Singleton<LevelManager>
     public void RemoveListCharacter(Character character)
     {
         if(character is Enemy) BotManager.Ins.Remove(character as Enemy);
-        for(int i = 0;i<characterList.Count ; ++ i)
-        {
-            if (characterList[i] == character)
-            {
-                characterList.RemoveAt(i);
-                break;
-            }
-        }
+        //for(int i = 0;i<characterList.Count ; ++ i)
+        //{
+        //    if (characterList[i] == character)
+        //    {
+        //        characterList.RemoveAt(i);
+        //        break;
+        //    }
+        //}
+        characterList.Remove(character);
         ++ countcharacterdie;
         if (countInstanceCharacter < CharacterAmount)
         {
-            Invoke(nameof(InstanceCharacter),0.3f);
             ++countInstanceCharacter;
+            Invoke(nameof(InstanceCharacter),0.3f);
         }
     }
-    public void CharacterDead(Character character)
+    public void CharacterDead(Character character)//TODO : tach ra lai ham rieng ,tranh dung if nhieu lan
     {
         //if(!GameManger.Ins.Isplay) return;
         if (character is Player)
@@ -128,7 +128,7 @@ public class LevelManager : Singleton<LevelManager>
             GameManger.Ins.ChangePlay(false);
             UIManager.Ins.OpenUI<CanvasLose>().ShowCanvas(countcharacterdie + 1, (float)(countcharacterdie + 2) / (float)(CharacterAmount));
         }
-        else if (characterList.Count == 1)
+        else if (characterList.Count == 1 && countInstanceCharacter >= CharacterAmount)
         {
             GameManger.Ins.ChangePlay(false);
             if (characterList[0] is Player)
@@ -161,36 +161,35 @@ public class LevelManager : Singleton<LevelManager>
             float x = UnityEngine.Random.Range(-currentLevel.length / 2, currentLevel.length / 2);
             float z = UnityEngine.Random.Range(-currentLevel.width / 2, currentLevel.width / 2);
             enemytransform = new Vector3(x, currentLevel.position.y, z);
-        } while (Vector3.Distance(enemytransform, player.transform.position) <= 6f);
+        } while (Vector3.Distance(enemytransform, player.transform.position) <= 7f);
         BotManager.Ins.Add(enemytransform, countInstanceCharacter > CharacterAmount - 4 ? 1 : 0,player.LevelCharacter, arrowPrefab, canvas);
     }
-    private void Update()
+    private void Update()//TODO : dua ve class cu the 
     {
         for (int i = 0; i < characterList.Count; i++)
         {
-                Vector3 viewPosition = mainCamera.WorldToViewportPoint(characterList[i].CharacterTransform.position);
-                if (!GameManger.Ins.Isplay || (viewPosition.x > 0f && viewPosition.x < 1f && viewPosition.y > 0f && viewPosition.y < 1f)) {
-                    characterList[i].Arrow.gameObject.SetActive(false);
-                }
-                else
+            Vector3 viewPosition = mainCamera.WorldToViewportPoint(characterList[i].CharacterTransform.position);
+            if (!GameManger.Ins.Isplay || (viewPosition.x > 0f && viewPosition.x < 1f && viewPosition.y > 0f && viewPosition.y < 1f)) {
+                characterList[i].Arrow.gameObject.SetActive(false);
+            }
+            else
+            {
+                if (viewPosition.z < 0f)
                 {
-                    if (viewPosition.z < 0f)
-                    {
-                        // Nếu z âm, đối tượng nằm sau camera. Xử lý trường hợp này nếu cần thiết
-                        viewPosition = Vector3Invert(viewPosition);
-                        viewPosition = Vector3FixEdge(viewPosition);
-                    }
+                    // Nếu z âm, đối tượng nằm sau camera. Xử lý trường hợp này nếu cần thiết
+                    viewPosition = Vector3Invert(viewPosition);
+                    viewPosition = Vector3FixEdge(viewPosition);
+                }
                 viewPosition.x = Mathf.Clamp(viewPosition.x, 0.01f, 0.99f);
                 viewPosition.y = Mathf.Clamp(viewPosition.y, 0.01f, 0.99f);
                 Vector3 screenPosition = mainCamera.ViewportToScreenPoint(viewPosition);
-                    //RectTransformUtility.ScreenPointToLocalPointInRectangle(canvas.transform as RectTransform, screenPosition, canvas.worldCamera, out Vector2 localPoint);
-                    characterList[i].Arrow.gameObject.SetActive(true);
-                // Xoay mũi tên hướng về đối tượng
+                characterList[i].Arrow.gameObject.SetActive(true);
+            // Xoay mũi tên hướng về đối tượng
                 Vector3 screenPosCharacter = mainCamera.WorldToScreenPoint(characterList[i].CharacterTransform.position);
-                    Vector3 screenPosPlayer = mainCamera.WorldToScreenPoint(player.CharacterTransform.position);
-                    Vector3 direction = screenPosCharacter - screenPosPlayer;
-                    float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
-                    // Đặt anchor của mũi tên tại vị trí thích hợp
+                Vector3 screenPosPlayer = mainCamera.WorldToScreenPoint(player.CharacterTransform.position);
+                Vector3 direction = screenPosCharacter - screenPosPlayer;
+                float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+                // Đặt anchor của mũi tên tại vị trí thích hợp
                 characterList[i].Arrow.LoadUpdate(screenPosition, Quaternion.Euler(new Vector3(0, 0, angle - 90)), viewPosition, characterList[i].LevelCharacter);
             }
         }
@@ -198,33 +197,16 @@ public class LevelManager : Singleton<LevelManager>
     public Vector3 Vector3FixEdge(Vector3 vector)
     {
         Vector3 vectorFixed = vector;
-
-        //Obtendo maior valor do Vetor, maior valor sempre maior que 0
         float highestValue = Vector3Max(vectorFixed);
-
-        //Obtendo menor valor do Vetor, menor valor sempre menor que 0
         float lowerValue = Vector3Min(vectorFixed);
 
-        //Obento o lado mais próximo do alvo para o indicador ficar [0,0] ou  [1,1]
-
         float highestValueBetween = DirectionPreference(lowerValue, highestValue);
-
-
-        /**Fixando vetor na borda [1,1]**/
-
-        //Se highest for o melhor para olhar
         if (highestValueBetween == highestValue)
         {
 
             vectorFixed.x = vectorFixed.x == highestValue ? 1 : vectorFixed.x;
             vectorFixed.y = vectorFixed.y == highestValue ? 1 : vectorFixed.y;
-
-            //Se menor valor for o melhor olhar
         }
-
-        /*Fixando vetor na bora [0,0]*/
-
-        //Se lowerValue for o melhor para olhar
         if (highestValueBetween == lowerValue)
         {
 
@@ -236,7 +218,6 @@ public class LevelManager : Singleton<LevelManager>
     Vector3 Vector3Invert(Vector3 viewport_position)
     {
         Vector3 invertedVector = viewport_position;
-        //Inverte position com base na dimensão da tela
         invertedVector.x = 1f - invertedVector.x;
         invertedVector.y = 1f - invertedVector.y;
         invertedVector.z = 0;

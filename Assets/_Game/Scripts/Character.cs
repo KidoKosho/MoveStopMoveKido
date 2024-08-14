@@ -29,7 +29,6 @@ public class Character : CharacterSO
     private int levelCharacter = 1;
     private Character CharacterWeap;
     public int LevelCharacter => levelCharacter;
-    public List<AttackWeapon> AttackWeapons = new List<AttackWeapon>();
     public float Increaseswithlevel => (LevelCharacter <=15 ? LevelCharacter : 15) * 0.05f + 0.95f;
     public Transform CharacterTransform => characterTransform;
     public ArrowUI Arrow => arrow;
@@ -160,23 +159,23 @@ public class Character : CharacterSO
         LevelManager.Ins.RemoveListCharacter(this);
         LevelManager.Ins.CharacterDead(this);
         canvasLevel.gameObject.SetActive(false);
-        Invoke(nameof(Characterdeath), 0.75f);
+        Invoke(nameof(CharacterDeath), 0.75f);
     }
     public void ChangeDeath(bool isdead)
     {
         isDead = isdead;
     }
-    public void Characterdeath()
+    public virtual void CharacterDeath()
     {
-        if (this is Enemy) SimplePool.Despawn(this);
-        else gameObject.SetActive(false);
+        //if (this is Enemy) SimplePool.Despawn(this);
+        //else gameObject.SetActive(false);
     }
     public void InsWeap()//tao vien dan
     {
         IsActiveWeap(false);
         isAttacking = true;
         transform.LookAt(CharacterWeap.transform.position + (characterTransform.position.y - CharacterWeap.transform.position.y) * Vector3.up);
-        Vector3 bullet = (CharacterWeap.transform.position- weaponposition + weaponposition.y * Vector3.up).normalized;//hướng ném mục tiêu 
+        Vector3 bullet = (CharacterWeap.transform.position- currentWeapon.transform.position + weaponposition.y * Vector3.up).normalized;//hướng ném mục tiêu 
         currentWeapon.OnInit(this,bullet, SightCharacter.Radius, weaponposition);
     }
     public void ChangeIsAttacking(bool check)// xem dang tan cong khong
@@ -221,34 +220,9 @@ public class Character : CharacterSO
     public void OnDespawn()
     {
         CancelInvoke();
-        ClearBullet();
         canvasLevel.gameObject.SetActive(false);
         ChangeAnim(PrefConst.Idle_Anim);
         arrow.gameObject.SetActive(false);
-    }
-    public void AddBullet(AttackWeapon attackWeapon)//them vien dan vao list
-    {
-        AttackWeapons.Add(attackWeapon);
-    }
-    public void ClearBullet() // xoa tat ca vien dan
-    {;
-        for (int i = AttackWeapons.Count - 1; i >= 0; i--)
-        {
-            AttackWeapons[i].OnDespawn();
-            AttackWeapons.RemoveAt(i);
-        }
-        AttackWeapons.Clear();
-    }
-    public void RemoveBullet(AttackWeapon attackWeapon)
-    {
-        for (int i = 0; i < AttackWeapons.Count ; i++)
-        {
-            if (attackWeapon == AttackWeapons[i])
-            {
-                AttackWeapons.RemoveAt(i);
-                break;
-            }
-        }
     }
     public void Changearrow(ArrowUI arrow)
     {

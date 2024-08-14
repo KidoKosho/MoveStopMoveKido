@@ -12,11 +12,11 @@ public class UICanvasBought : UICanvas
     {
         if (check)
         {
-            textBuy.text = "You have successfully purchased it";
+            textBuy.text = "You have successfully purchased it!!!";
         }
         else
         {
-            textBuy.text = "you don't have enough money to buy it";
+            textBuy.text = "You don't have enough money to buy it!!!";
         }
     }
 }

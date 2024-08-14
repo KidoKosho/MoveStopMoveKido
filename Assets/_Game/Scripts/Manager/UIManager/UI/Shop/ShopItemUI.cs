@@ -24,7 +24,6 @@ public class ShopItemUI : MonoBehaviour
             imageLock.gameObject.SetActive(false);
             if (item.indexItem == PlayerPrefs.GetInt(playerid))
             {
-                Debug.Log("hi");
                 equippedImage.gameObject.SetActive(true);
             }
             else equippedImage.gameObject.SetActive(false);

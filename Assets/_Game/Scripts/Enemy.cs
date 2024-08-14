@@ -65,4 +65,10 @@ public class Enemy : Character
     {
 
     }
+
+    public override void CharacterDeath()
+    {
+        base.CharacterDeath();
+        SimplePool.Despawn(this);
+    }
 }

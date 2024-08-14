@@ -5,12 +5,15 @@ using UnityEngine;
 public class AttackWeapon : MonoBehaviour
 {
     [SerializeField] Rigidbody rb;
+    [SerializeField] float bulletSpeed = 5f;
     private Character charater;
-    public float bulletSpeed = 5f;
-    public void OnInit(Character character, Vector3 bullet, float r,Vector3 attacktranform)// ban vien dan
+    private Weapon Weapon;
+
+    public void Shoot(Character character, Vector3 bullet, float r,Vector3 attacktranform,Weapon weapon)// ban vien dan
     {
         rb.velocity = Vector3.zero;
         this.charater = character;
+        Weapon = weapon;
         transform.localScale = Vector3.one * character.Increaseswithlevel / 2;
         rb.velocity = bullet * bulletSpeed * character.Increaseswithlevel;
         float timespawn = r / (bulletSpeed * character.Increaseswithlevel);
@@ -40,13 +43,13 @@ public class AttackWeapon : MonoBehaviour
     {
         charater.IsActiveWeap(true);
         charater.ChangeisAttack(false);
-        charater.RemoveBullet(this);
         charater.ChangeIsAttacking(false);
         if (gameObject != null) Destroy(gameObject);
     }
     public void OnDespawn()
     {
         CancelInvoke();
+        Weapon.RemoveBullet(this);
         Destroy(gameObject);
     }
 }

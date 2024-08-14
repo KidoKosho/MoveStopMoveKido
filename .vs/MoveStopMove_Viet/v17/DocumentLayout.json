@@ -3,80 +3,12 @@
   "WorkspaceRootPath": "E:\\C#\\Game\\MoveStopMove_Viet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\colordataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\colordataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\shop\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\shop\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\pref\\pref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\pref\\pref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\uicanvasbought.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\uicanvasbought.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|e:\\c#\\game\\movestopmove_viet\\assets\\_game\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|e:\\c#\\game\\movestopmove_viet\\assets\\_game\\scripts\\pool\\poolcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\pool\\poolcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\shop\\shopitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\shop\\shopitemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\shop\\tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\shop\\tab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\statemachine\\state2\\attackenemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\statemachine\\state2\\attackenemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\statemachine\\state2\\findenemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\statemachine\\state2\\findenemy2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\statemachine\\attackenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\statemachine\\attackenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\statemachine\\findenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\statemachine\\findenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\pref\\prefconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\pref\\prefconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasweaponshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasweaponshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\arrowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\arrowui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\weapon\\attackweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,92 +19,8 @@
       "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasshopskin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasshopskin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\canvaslevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\canvaslevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\botmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\botmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasgameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasgameplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\shopso\\hairshopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\shopso\\hairshopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\characterso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\characterso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\shopso\\colorshopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\shopso\\colorshopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvaslose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvaslose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvaswin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvaswin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\shop\\itemcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\shop\\itemcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvascolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvascolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasweaponshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvasweaponshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\weapondataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\weapondataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\pantdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\pantdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\shopso\\pantshopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\shopso\\pantshopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\shopso\\weaponshopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\shopso\\weaponshopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\shopso\\shopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\shopso\\shopso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scriptableobject\\hairdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scriptableobject\\hairdataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\manager\\uimanager\\ui\\canvassetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\manager\\uimanager\\ui\\canvassetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\Game\\MoveStopMove_Viet\\Temp\\Preprocessed-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Preprocessed-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|E:\\C#\\Game\\MoveStopMove_Viet\\assets\\_game\\scripts\\sightcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0F5EAD-90BB-934B-6979-FFE59870EA3B}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\sightcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -182,536 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ColorDataSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ColorDataSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\ColorDataSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ColorDataSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\ColorDataSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "SightCharacter.cs",
+              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\SightCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\SightCharacter.cs",
+              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\SightCharacter.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\SightCharacter.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:06:25.606Z",
+              "WhenOpened": "2024-08-08T13:27:44.357Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Item.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\Item.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\Item.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\Item.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T08:54:41.917Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pref.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Pref\\Pref.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Pref\\Pref.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Pref\\Pref.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Pref\\Pref.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T09:14:50.282Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CameraFollow.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\CameraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\CameraFollow.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\CameraFollow.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\CameraFollow.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvyUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:36:58.216Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PoolControll.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Pool\\PoolControll.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Pool\\PoolControll.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Pool\\PoolControll.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Pool\\PoolControll.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T13:57:08.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AttackWeapon.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Weapon\\AttackWeapon.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Weapon\\AttackWeapon.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Weapon\\AttackWeapon.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Weapon\\AttackWeapon.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T05:41:57.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ArrowUI.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\ArrowUI.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\ArrowUI.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\ArrowUI.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\ArrowUI.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T18:12:29.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PrefConst.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Pref\\PrefConst.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Pref\\PrefConst.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Pref\\PrefConst.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Pref\\PrefConst.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T09:13:22.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Enemy.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Enemy.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T12:56:18.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FindEnemy.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\StateMachine\\FindEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\StateMachine\\FindEnemy.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\StateMachine\\FindEnemy.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\StateMachine\\FindEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T07:17:39.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UICanvasBought.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\UICanvasBought.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\UICanvasBought.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\UICanvasBought.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\UICanvasBought.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T17:52:13.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Tab.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\Tab.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\Tab.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\Tab.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\Tab.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T08:51:49.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShopItemUI.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\ShopItemUI.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\ShopItemUI.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\ShopItemUI.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\ShopItemUI.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T08:01:23.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Player.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T14:06:57.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Cache.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Cache.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Cache.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Cache.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Cache.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:26:46.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Character.cs",
               "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Character.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Character.cs",
               "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Character.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Character.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAxwJsAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:33:25.893Z"
+              "WhenOpened": "2024-08-06T07:33:25.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AttackEnemy.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\StateMachine\\AttackEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\StateMachine\\AttackEnemy.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\StateMachine\\AttackEnemy.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\StateMachine\\AttackEnemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:36:23.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FindEnemy2.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\StateMachine\\State2\\FindEnemy2.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\StateMachine\\State2\\FindEnemy2.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\StateMachine\\State2\\FindEnemy2.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\StateMachine\\State2\\FindEnemy2.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:36:48.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AttackEnemy2.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\StateMachine\\State2\\AttackEnemy2.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\StateMachine\\State2\\AttackEnemy2.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\StateMachine\\State2\\AttackEnemy2.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\StateMachine\\State2\\AttackEnemy2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:37:16.932Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LevelManager.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\LevelManager.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\LevelManager.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\LevelManager.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\LevelManager.cs",
-              "ViewState": "AQIAAMEAAAAAAAAAAAAhwNEAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T15:51:49.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CanvasShopSkin.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasShopSkin.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasShopSkin.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasShopSkin.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasShopSkin.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:17:13.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "Weapon.cs",
               "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Weapon\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Weapon\\Weapon.cs",
               "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Weapon\\Weapon.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Weapon\\Weapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:35:57.856Z"
+              "WhenOpened": "2024-08-06T06:35:57.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GameManger.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\GameManger.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\GameManger.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\GameManger.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\GameManger.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAkwBMAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T16:10:40.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BotManager.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\BotManager.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\BotManager.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\BotManager.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\BotManager.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T18:48:36.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CanvasLevel.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\CanvasLevel.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\CanvasLevel.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\CanvasLevel.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\CanvasLevel.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T16:03:15.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CanvasGamePlay.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasGamePlay.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasGamePlay.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasGamePlay.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasGamePlay.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAnwBQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T16:17:56.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "HairShopSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\HairShopSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\ShopSO\\HairShopSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\HairShopSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\ShopSO\\HairShopSO.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:22:12.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CharacterSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\CharacterSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\CharacterSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\CharacterSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\CharacterSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T07:34:03.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ColorShopSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\ColorShopSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\ShopSO\\ColorShopSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\ColorShopSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\ShopSO\\ColorShopSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T15:19:47.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CanvasLose.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasLose.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasLose.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasLose.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasLose.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T17:56:09.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CanvasWin.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasWin.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasWin.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasWin.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasWin.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T06:41:07.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CanvasMenu.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasMenu.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasMenu.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasMenu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T10:03:11.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ItemColor.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\ItemColor.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\ItemColor.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\ItemColor.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\Shop\\ItemColor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T13:03:27.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CanvasColor.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasColor.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasColor.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasColor.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasColor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T12:39:57.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 0,
               "Title": "CanvasWeaponShop.cs",
               "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasWeaponShop.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasWeaponShop.cs",
               "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasWeaponShop.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasWeaponShop.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAiwDIAAAAdAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwCcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T10:02:30.048Z"
+              "WhenOpened": "2024-07-28T10:02:30.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "WeaponDataSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\WeaponDataSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\WeaponDataSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\WeaponDataSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\WeaponDataSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "DocumentIndex": 2,
+              "Title": "AttackWeapon.cs",
+              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Weapon\\AttackWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Weapon\\AttackWeapon.cs",
+              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Weapon\\AttackWeapon.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Weapon\\AttackWeapon.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:05:11.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "PantDataSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\PantDataSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\PantDataSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\PantDataSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\PantDataSO.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:04:51.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "WeaponShopSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\WeaponShopSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\ShopSO\\WeaponShopSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\WeaponShopSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\ShopSO\\WeaponShopSO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:20:35.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "PantShopSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\PantShopSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\ShopSO\\PantShopSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\PantShopSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\ShopSO\\PantShopSO.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T06:29:34.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ShopSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\ShopSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\ShopSO\\ShopSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\ShopSO\\ShopSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\ShopSO\\ShopSO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T13:36:45.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "HairDataSO.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\HairDataSO.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\ScriptableObject\\HairDataSO.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\ScriptableObject\\HairDataSO.cs",
-              "RelativeToolTip": "Assets\\_Game\\ScriptableObject\\HairDataSO.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:29:07.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CanvasSetting.cs",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasSetting.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasSetting.cs",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasSetting.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Manager\\UIManager\\UI\\CanvasSetting.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T16:34:54.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Preprocessed-Standard.shader",
-              "DocumentMoniker": "E:\\C#\\Game\\MoveStopMove_Viet\\Temp\\Preprocessed-Standard.shader",
-              "RelativeDocumentMoniker": "Temp\\Preprocessed-Standard.shader",
-              "ToolTip": "E:\\C#\\Game\\MoveStopMove_Viet\\Temp\\Preprocessed-Standard.shader",
-              "RelativeToolTip": "Temp\\Preprocessed-Standard.shader",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-07-29T13:57:57.724Z"
+              "WhenOpened": "2024-08-02T05:41:57.598Z",
+              "EditorCaption": ""
             }
           ]
         }

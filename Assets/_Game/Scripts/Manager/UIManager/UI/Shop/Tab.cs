@@ -68,6 +68,7 @@ public class Tab : MonoBehaviour
             if (ShopSO.Items[i].indexItem == PlayerPrefs.GetInt(namePref))
             {
                 ShopItems[i].imageSelect.gameObject.SetActive(true);
+                currentItem = i;
                 indexcurrent = i;
             }
         }
@@ -88,6 +89,7 @@ public class Tab : MonoBehaviour
         ShopItems[currentItem].UpdateIteamUI(ShopSO.Items[currentItem], namePref);//update Item deo trc do
         ShopItems[indexcurrent].UpdateIteamUI(ShopSO.Items[indexcurrent], namePref);//update Item muon deo
         currentItem = indexcurrent; //luu gia tri dang deo
+        ChangeSkinShop(ShopSO.Items[currentItem]);
         ChangeButtonShop(ShopSO.Items[indexcurrent]);//thay doi hinh anh Shop
     }
     public void UnequipButton()//thao skin cho nhan vat
@@ -99,6 +101,7 @@ public class Tab : MonoBehaviour
         ChangeButtonShop(ShopSO.Items[indexcurrent]);
         ChangeSkinShop(ShopSO.Items[0]);
         ShopItems[0].UpdateIteamUI(ShopSO.Items[0], namePref);//LoadUi dau tien
+        Debug.Log(indexcurrent);
     }
     public void BuyButton()
     {
@@ -107,8 +110,9 @@ public class Tab : MonoBehaviour
         {
             Pref.Coins -= ShopSO.Items[indexcurrent].sprice;
             Pref.SetBool(namePref + ShopSO.Items[indexcurrent].indexItem, true);
-            SelectButton();
-            UIManager.Ins.OpenUI<UICanvasBought>().Buy(true);
+            UIManager.Ins.OpenUI<UICanvasBought>().Buy(true);   
+            ShopItems[indexcurrent].UpdateIteamUI(ShopSO.Items[indexcurrent], namePref);
+            ChangeButtonShop(ShopSO.Items[indexcurrent]);
             CanvasShop.ChangeCoinsMain();
         }
         else
